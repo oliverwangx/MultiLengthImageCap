@@ -3,7 +3,7 @@
 This is the umich EECS 598 Deep Learnig Final Project. 
 
 
-![pdf](https://github.com/oliverwangx/Redefine-the-Diversity-of-image-Captioning/blob/master/poster.pdf)
+![image](https://github.com/oliverwangx/Redefine-the-Diversity-of-image-Captioning/blob/master/poster.png)
 
 ### Introduction
 
