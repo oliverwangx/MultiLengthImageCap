@@ -3,7 +3,9 @@
 This is the umich EECS 598 Deep Learnig Final Project. 
 
 
-### Mapping from image to text is essentially “one-to-many”. The captions, in our opinion, can diverse in three dimensions:
+### Introduction
+
+Mapping from image to text is essentially “one-to-many”. The captions, in our opinion, can diverse in three dimensions:
 1. Content: objects or regions to describe
 2. The level of Detail: richness of captions to describe the content, usually reflected by length of generated sentences
 3. Form: variety of sentence structure or word choice, under constraint of the same content and level of detail
