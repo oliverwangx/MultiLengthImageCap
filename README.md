@@ -21,4 +21,4 @@ a) It can deal with similarity between multiple subregions of image with text.
 b) It achieved better performance than previous metrics. Spot problems when using Language Model as criterion
 We figured out why the LM failed when used as a criterion training decoder, and give future directions for solving this issue.
 
-Thank you for my other team members' contribution. They are Chuan Cen, Yuan Liang, Ruoyao Wang, Feiyi
+Thanks for my teammates' contribution. They are Chuan Cen, Yuan Liang, Ruoyao Wang, Feiyi
