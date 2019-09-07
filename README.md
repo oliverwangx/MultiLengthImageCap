@@ -3,6 +3,8 @@
 This is the umich EECS 598 Deep Learnig Final Project. 
 
 
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+
 ### Introduction
 
 Mapping from image to text is essentially “one-to-many”. The captions, in our opinion, can diverse in three dimensions:
